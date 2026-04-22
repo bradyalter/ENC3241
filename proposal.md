@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 title: Proposal
@@ -6,3 +7,6 @@ title: Proposal
 # Proposal
 
 [Paste your proposal here]
+-->
+
+File TBD [sorry]
