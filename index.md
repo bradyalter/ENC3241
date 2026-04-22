@@ -12,4 +12,4 @@ Brady is an aspiring strategic change leader in the electronics distribution ind
 - [Resume](resume.md)
 - [Cover Letter](coverletter.md)
 - [Instructions](instructions.md)
-- [Proposal](proposal.md)
+<!-- - [Proposal](proposal.md) -->
